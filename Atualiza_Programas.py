@@ -67,4 +67,4 @@ else:
         registrar_log("✅ Nenhuma atualização foi realizada.")
 
 # Exibir mensagem final
-print(f"✅ Processo concluído! Verifique o log em: {arquivo_log}")
+print(f"✅ Processo concluído! Verifique o log no diretorio: {arquivo_log}")
