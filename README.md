@@ -27,12 +27,3 @@ Caso queira alterar o diretório onde os logs são salvos, modifique a variável
 ## Contribuição
 
 Se desejar sugerir melhorias ou relatar problemas, abra uma **Issue** neste repositório.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para modificar e distribuir.
-
----
-
-🚀 **Mantenha seus pacotes sempre atualizados com facilidade!**
-
